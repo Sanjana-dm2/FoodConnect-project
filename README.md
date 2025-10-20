@@ -50,3 +50,6 @@ Create a dashboard for real-time tracking.
 8️⃣ Testing
 Add sample records for each object.
 Test automation by creating a new task and checking if volunteers receive email alerts.
+
+demo video link:
+https://drive.google.com/file/d/1t31Jb45tEtNZYPaN_gzhEOC52CRLaUKk/view?usp=drive_link
